@@ -6,6 +6,7 @@ You're in a record store and see an album cover you recognize, but you can't qui
 Vinyl Lens currently requires the user to enter the name of the album and generates a description of the album.
 
 ![image](https://github.com/maxwellpothier/vinyl-lens-ios/assets/70623821/c61b70fe-ec4b-410c-92cc-b0bc9a05f43a)
+![image](https://github.com/maxwellpothier/vinyl-lens-ios/assets/70623821/592b8f14-9f50-41a4-a826-916c9bc497d3)
 
 
 ## Roadmap
