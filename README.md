@@ -5,6 +5,9 @@ You're in a record store and see an album cover you recognize, but you can't qui
 ## Current functionality
 Vinyl Lens currently requires the user to enter the name of the album and generates a description of the album.
 
+![image](https://github.com/maxwellpothier/vinyl-lens-ios/assets/70623821/c61b70fe-ec4b-410c-92cc-b0bc9a05f43a)
+
+
 ## Roadmap
 - Build out camera support to scan an album cover
 - Lookup that album cover to find title, artist, and year
