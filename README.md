@@ -13,3 +13,6 @@ Vinyl Lens currently requires the user to enter the name of the album and genera
 - Build out camera support to scan an album cover
 - Lookup that album cover to find title, artist, and year
 - Use the information from the lookup to generate a description for the user
+
+## Hopefully, Someday
+- Build out account support, allow users to bookmark certain albums they want to go back to.
